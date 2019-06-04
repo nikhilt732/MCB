@@ -1,4 +1,4 @@
-# website
+# MCB
 a website using html and css
 
 JUST CLONE THE FILE ON THE DESKTOP AND OPEN YOUR BROWSER AND TYPE file:///C:/Users/MUJ/Desktop/website/index.html#fff
